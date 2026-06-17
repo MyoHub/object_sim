@@ -1,4 +1,4 @@
-<mujoco model="simhive/object_sim">
+<mujoco model="object_sim/apple">
 <!-- =================================================
     Copyright 2019 Vikash Kumar
     Model   :: Objects (MuJoCoV2.0)
